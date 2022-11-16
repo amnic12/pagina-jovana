@@ -1,0 +1,7 @@
+r= input ("Ingrese la primera linea de un trabalenguas")
+largo= len (r)
+print (largo)
+r2= int (input("Ingrese un número inicial"))
+r3= int (input("Ingrese un número final"))
+palabra=(r[r2:r3])
+print (palabra)
